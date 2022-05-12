@@ -55,6 +55,4 @@ function create_col(){
 
         id += 1
     }
-    // let m = document.getElementById("0")
-    // m.addEventListener("input", updateInput(5, m.id))
 }

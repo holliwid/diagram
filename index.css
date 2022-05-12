@@ -41,7 +41,7 @@ html{
 
 .col-ex{
     width: 20px;
-    background-color: green;
+    background-color: rgb(107, 173, 162);
     /* height: 500px; */
     margin: 0 10px;
 }
