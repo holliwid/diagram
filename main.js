@@ -25,7 +25,7 @@ function updateInput(id){
 }
 
 
-let length_of_col = 50;
+let length_of_col = 25;
 function create_col(){
     // забираем число столбцов
     let amount = document.getElementById("amount-col").value
